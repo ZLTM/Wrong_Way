@@ -1,5 +1,5 @@
-# JHack
-Project made for the bachelor degree of systems engineer, awarded with a qualification of 100/100, available for reading in spanish at the UCB web site http://www.bibvirtual.ucb.edu.bo:8000/opac/Record/101006186
+# Wrong way
+Created as a narrative experiment fusing a driving game with visual novel elements, try to drive while you pay attention to the messages on your screen
 
 [![Type](https://img.shields.io/badge/Type-Videogame-945C1D.svg)](https://github.com/ZLTM/Taki)
 [![Genre](https://img.shields.io/badge/Genre-Narrative-DDA76A.svg)](https://packagist.org/packages/phpunit/phpunit)
